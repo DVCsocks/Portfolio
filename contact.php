@@ -48,7 +48,7 @@
           // 1. Enter the email address you would like the enquiry sent to
           // 2. Enter the subject of the email you will receive, when someone contacts you
           // 3. Enter the text that you would like the user to see once they submit the contact form
-          $to = 'enter email address here';
+          $to = 'William11Jimenez@gmail.com';
           $subject = 'Enquiry from the website';
           $contact_submitted = 'Your message has been sent.';
 
